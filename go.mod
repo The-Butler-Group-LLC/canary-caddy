@@ -20,7 +20,7 @@ require (
 	github.com/klauspost/cpuid/v2 v2.3.0
 	github.com/mholt/acmez/v3 v3.1.6
 	github.com/prometheus/client_golang v1.23.2
-	github.com/quic-go/quic-go v0.59.0
+	github.com/quic-go/quic-go v0.59.1
 	github.com/smallstep/certificates v0.30.2
 	github.com/smallstep/nosql v0.8.0
 	github.com/smallstep/truststore v0.13.0
@@ -170,7 +170,7 @@ require (
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/mod v0.35.0 // indirect
 	golang.org/x/sys v0.43.0
-	golang.org/x/text v0.36.0
+	golang.org/x/text v0.36.0 // indirect
 	golang.org/x/tools v0.44.0 // indirect
 	google.golang.org/grpc v1.80.0 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
